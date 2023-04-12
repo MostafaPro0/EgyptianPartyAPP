@@ -1,4 +1,4 @@
-import { CountDown } from "./countDown.js";
+import { CountDown } from "./countdown.js";
 import { Singers } from "./singers.js";
 import { UI } from "./ui.js";
 
